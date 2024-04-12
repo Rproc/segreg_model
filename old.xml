@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repast:Params xmlns:Repast="http://www.src.uchicago.edu" name="myparams">
+<Repast:ParamBlock runs="1">
+
+<Repast:Param name="Log" type="const" value="1"/>
+
+<Repast:Param name="SpaceSize" type="const" value="51"/>
+
+<Repast:Param name="NumAgents" type="const" value="100"/>
+
+<Repast:Param name="Percentagered" type="const" value="10"/>
+
+<Repast:Param name="PercentageYellow" type="const" value="40"/>
+
+<Repast:Param name="PercentageBlue" type="const" value="50"/>
+
+<Repast:Param name="ConsLimit" type="const" value="4"/>
+
+<Repast:Param name="ConsolidationLimit" type="const" value="800"/>
+
+<Repast:Param name="Consolidationrandom" type="const" value="50"/>
+
+<Repast:Param name="DecayStartPoint" type="const" value="1000"/>
+
+<Repast:Param name="Decayrandom" type="const" value="40"/>
+
+<Repast:Param name="D" type="const" value="4"/>
+
+<Repast:Param name="FindspaceSteps" type="const" value="2"/>
+
+<Repast:Param name="FindspaceSteps2" type="const" value="2"/>
+
+<Repast:Param name="FindspaceSteps3" type="const" value="2"/>
+
+<Repast:Param name="Predrandom" type="const" value="25"/>
+
+<Repast:Param name="Pred" type="const" value="7"/>
+
+<Repast:Param name="Archive" type="const" value="2"/>
+
+</Repast:ParamBlock>
+</Repast:Params>
